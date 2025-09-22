@@ -11,6 +11,7 @@ It creates a unified, consistent interface for system interaction
 Makes scripting and automation much easier.
 
 Example: `cat /proc/cpuinfo` -> read CPU information like a text file.
+
 Example: `echo 50 > /sys/class/backlight/.../brightness` -> controls screen brightness by writing to a "file".
 
 ## Preliminary of Files in Linux
